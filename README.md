@@ -18,7 +18,8 @@ Phase two
 
 The repositiory has the following folders 
 - the Python codes with extensions .ipynb that can be executed from python ide
-- tableau workbook wit extension .twb that is implemented in Tableau deskotp 2020.4.0
+- tableau workbook with extension .twb that is implemented in Tableau deskotp 2020.4.0
+- R studio with .RData that has been implemented in Rstudio 
 
 the data used in this analysis is found on the following websites 
 Air qaulity data 
